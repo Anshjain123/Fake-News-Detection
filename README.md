@@ -6,4 +6,4 @@ link for the dataset -> https://www.kaggle.com/c/fake-news/data?select=train.csv
 
 
 # Outcome of Project 
-one will be able to distinguish between the fake news and original news.
+People will be able to distinguish between the fake news and original news.
